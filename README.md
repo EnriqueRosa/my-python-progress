@@ -1,4 +1,4 @@
-🐍 my-python-progress
+# 🐍 my-python-progress
 Repositorio personal para aprender Python desde cero hasta niveles avanzados.
 📘 Descripción
 Este repositorio documenta mi proceso de aprendizaje en Python, desde conceptos básicos hasta temas avanzados. Incluye ejemplos prácticos, ejercicios resueltos y proyectos personales.
