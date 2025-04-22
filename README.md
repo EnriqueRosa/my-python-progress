@@ -1,7 +1,7 @@
 # 🐍 my-python-progress
-**Repositorio personal para aprender Python desde cero hasta niveles avanzados.
+**Repositorio personal para aprender Python desde cero hasta niveles avanzados.**
 ## 📘 Descripción
-** Este repositorio documenta mi proceso de aprendizaje en Python, desde conceptos básicos hasta temas avanzados. Incluye ejemplos prácticos, ejercicios resueltos y proyectos personales.
+**Este repositorio documenta mi proceso de aprendizaje en Python, desde conceptos básicos hasta temas avanzados. Incluye ejemplos prácticos, ejercicios resueltos y proyectos personales.**
 ## 🧠 Temas cubiertos
 - [x] 00 - Hola Mundo
 - [x] 01 - Variables
@@ -19,5 +19,5 @@
 - [] 13 - Módulos
 
 ## 🚀 ¿Por qué este repositorio?
-** Este repositorio es tanto un diario de aprendizaje como una herramienta para ayudar a otros que estén comenzando con Python. ¡Aprender programando es la mejor forma de dominarlo!
+*Este repositorio es tanto un diario de aprendizaje como una herramienta para ayudar a otros que estén comenzando con Python. ¡Aprender programando es la mejor forma de dominarlo!*
 
